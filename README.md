@@ -1,7 +1,7 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Hajime!;Desenvolvedor+em+formação;Sempre+aprendendo+algo+novo." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Luis!;Desenvolvedor+em+formação;Sempre+aprendendo+algo+novo." />
 </p>
 
 ---
